@@ -12,21 +12,21 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94729352830']
-global.premium = ['94729352830']
-global.ownernomer = '94729352830'
-global.ownername = 'ШHłТΞ HΛϾКΞЯS'
-global.botname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.footer = '</> ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋɪɴɢ ʙᴏᴛ </>️ ▷'
-global.ig = 'https://github.com/KING-BOT-OFFICIAL'
+global.owner = ['94762623954']
+global.premium = ['94762623954']
+global.ownernomer = '94762623954'
+global.ownername = '𝙇𝘼𝙆𝙄𝙔𝘼 𝘽𝙊𝙏🧚‍♂️'
+global.botname = '[𝙇𝘼𝙆𝙄𝙔𝘼 𝘽𝙊𝙏🧚‍♂️]'
+global.footer = '𝙇𝘼𝙆𝙄𝙔𝘼 𝘽𝙊𝙏🧚‍♂️'
+global.ig = 'https://github.com/PATHUM-Bot'
 global.region = 'Sri Lanka'
-global.sc = 'https://github.com/KING-BOT-OFFICIAL/KING-BOT-MD'
-global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = '[🇱🇰𝚱𝚰𝚴Ｇ 𝛃𝚯𝚪🤘]'
-global.author = 'ШHłТΞ HΛϾКΞЯS'
+global.sc = 'https://github.com/PATHUM-Bot'
+global.myweb = 'https://youtube.com/channel/UC1fFCZY3oHq5MjA5Dv3fnOg'
+global.packname = '[𝙇𝘼𝙆𝙄𝙔𝘼 𝙈𝘿🧚‍♂️]'
+global.author = '𝙇𝘼𝙆𝙄𝙔𝘼 ᴹᴰ🧚‍♂️'
 global.sessionName = 'session'
-global.prefa = ['','!','.','🇱🇰','⚙️','🤘']
-global.sp = '⭔'
+global.prefa = ['','!','.','🧚‍♂️','☄','♻']
+global.sp = '🧚‍♂️'
 global.mess = {
     success: 'Done ✓',
     admin: 'This Feature Is Only For Admin!',
